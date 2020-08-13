@@ -13,7 +13,7 @@ export const StyledCurrency = styled.main`
 
   @media (max-width: ${breakpoints.medium}) {
     flex-direction: column-reverse;
-    justify-content: start;
+    justify-content: center;
   }
 `;
 

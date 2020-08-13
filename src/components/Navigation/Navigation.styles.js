@@ -10,6 +10,7 @@ export const StyledNav = styled.nav`
   z-index: 1000;
   top: 0;
   height: 15vh;
+  min-height: 60px;
   width: 100vw;
   padding: 10px;
   display: flex;
@@ -26,11 +27,11 @@ export const StyledNav = styled.nav`
   }
 
   @media (max-width: ${breakpoints.medium}) {
-    font-size: 2rem;
+    font-size: 2.5rem;
   }
 
   @media (max-width: ${breakpoints.small}) {
-    font-size: 1.5rem;
+    font-size: 2rem;
   }
 `;
 
