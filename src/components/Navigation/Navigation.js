@@ -3,8 +3,8 @@ import { StyledNav, StyledSwitch, StyledSpan } from './Navigation.styles';
 import ThemeContext, { themes } from '../../theme/Theme';
 import FormControlLabel from '@material-ui/core/FormControlLabel';
 import { Link } from 'react-router-dom';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faSun, faMoon } from '@fortawesome/free-solid-svg-icons'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faSun, faMoon } from '@fortawesome/free-solid-svg-icons';
 
 const Navigation = ({ themeSwitchChecked, themeSwitchOnChange }) => {
 

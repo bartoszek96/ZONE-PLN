@@ -1,6 +1,6 @@
 # ZONE PLN
 
-This application allows you to check the exchange rate of PLN in relation to 35 other valuts. The application has a simple currency converter and is responsive.
+This application allows you to check the exchange rate of PLN in relation to 35 other currencies. The application has a simple currency converter and is responsive.
 
 ## Try it live
 
